@@ -1,0 +1,13 @@
+{
+    "templates":[
+        {
+            "name":"Template A",
+            "repo":"https://github.com/tercen/template_repo"
+        },
+        {
+            "name":"Template B",
+            "repo":"https://github.com/tercen/template_repo2"
+        }
+    ]
+    
+}
